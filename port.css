@@ -1,0 +1,78 @@
+            #scr{
+                margin-left:40%;
+                }
+            * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+             
+           header {
+    background-color: #030617;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+               }
+
+            body{
+                background-color: #111828;                                 
+                }
+            #h, #a, #s, #R, #P, #b,{
+                padding-right:50px;
+            }
+                
+
+            .navigation{
+                font-family:'Arial', sans-serif;
+                }
+            .navigation{
+                color:White;
+                font-size:15px;
+                background-color:rgba(0, 0, 0, 0.1);
+                border:1px solid rgba(0, 0, 0, 0.1);
+                }
+            #uc{
+                color:White;
+                font-family:Arial Black;
+                font-size:30px;
+                }
+            #l{
+                color: #E9B308;
+                font-family:Arial Black;
+                font-size:27px;
+                }
+#main{
+    margin-left:70px;
+    margin-top:180px;
+    }
+            #greetings{
+                color: #E9B307;
+                font-family:'Arial', sans-serif;
+                font-size:18px;
+                margin-bottom:8px;
+                }
+             #cooper{
+                 color: #F3F4F6;
+                 font-family:'Arial Black', sans-serif;
+                 font-size: 40px;
+                 }
+#description{
+    font-family:'Arial', sans-serif;
+    font-size:17px;
+    color: #6A727F;
+    width:600px;
+    margin-top:5px;
+    }
+aside{
+    color:White;
+    position:fixed;
+    bottom:25%;
+    left:55%;
+    margin-left:70px;
+    border-radius:10px;
+    
+    }
+img{
+    border-radius:25px;
+    
+    }
